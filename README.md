@@ -15,9 +15,7 @@
 
 ## 📖 About
 
-
-This project develops a machine learning (ML) framework to forecast Chlorophyll-a concentrations at 1–7 day horizons in Beaverdam Reservoir, Virginia, USA. It uses Explainable AI (SHAP) to identify the key environmental drivers at each forecast horizon, and Bootstrap Ensemble methods (evaluated with CRPS) to quantify uncertainty.
-This project develops a machine learning framework to **forecast Chlorophyll-a concentrations at 1–7 day horizons** in Beaverdam Reservoir, Virginia, USA. It uses Explainable AI (SHAP) to identify the key environmental drivers at each forecast horizon, and Bootstrap Ensemble methods (evaluated with CRPS) to quantify prediction uncertainty. By combining high-frequency sensor data with meteorological observations, the model uncovers hidden patterns driving phytoplankton dynamics, offering insights for both **water quality management** and **ecological research**.
+This project develops a machine learning (ML) framework to **forecast Chlorophyll-a concentrations at 1–7 day horizons** in Beaverdam Reservoir, Virginia, USA. It uses Explainable AI (SHAP) to identify the key environmental drivers at each forecast horizon, and Bootstrap Ensemble methods (evaluated with CRPS) to quantify prediction uncertainty. By combining high-frequency sensor data with meteorological observations, the model uncovers hidden patterns driving phytoplankton dynamics, offering insights for both **water quality management** and **ecological research**.
 
 > *Note: The title will be updated with the publication name upon acceptance.*
 ---
