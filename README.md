@@ -61,7 +61,7 @@ The processed daily-averaged dataset is included in this repository as a CSV fil
 
 To regenerate the data directly from [EDI Repository](https://portal.edirepository.org/nis/home.jsp), run the R script:
 
-**R Script:** [Daily_avg_RS.R](https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
+**R Script:** [Daily_avg_RS.R](https://github.com/CareyLabVT/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
 
 This script fetches data packages from the EDI API, processes the variables, and outputs the final CSV.
 
