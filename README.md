@@ -25,7 +25,7 @@ This project develops a machine learning (ML) framework to **forecast Chlorophyl
 ### Option A: Run on Google Colab (Recommended)
 
 1. Open the colab: https://colab.google/
-2. Add the notebook `BVR_Forecasting_XAI_UQ_Review.ipynb`
+2. Add the notebook `BVR_Forecasting_XAI_UQ_MS.ipynb`
 3. Upload the CSV data file (`BVR_BIO_CHEM_MET_DAILY_2020_2024.csv`) or mount Google Drive
 4. Run the notebook cells sequentially
 
