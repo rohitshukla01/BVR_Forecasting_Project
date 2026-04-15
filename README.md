@@ -51,7 +51,7 @@ pip install jupyter
 jupyter notebook
 ```
 
-Open `BVR_Forecasting_review.ipynb` and run all cells sequentially.
+Open `BVR_Forecasting_XAI_UQ_MS.ipynb` and run all cells sequentially.
 
 ---
 
